@@ -2,6 +2,8 @@
 
 PyGame-based Basic Calculator 
 
+This code use for my learning PyGame Calculator with Python. It may be has some issues.
+
 By Tummanoon Kitcharas-anan : 6001012630047
 
 KING MONGKUT'S UNIVERSITY OF TECHNOLOGY NORTH BANGKOK (KMUTNB)
@@ -12,4 +14,4 @@ Thanks for the knowledge from sendex.
 
 This is his youtube channel : https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
 
-and this is his "PyGame with Python 3 Game Development" video : https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO
+and this is his "PyGame with Python 3 Game Development" videoes : https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO

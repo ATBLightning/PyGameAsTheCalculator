@@ -2,6 +2,8 @@
 
 PyGame-based Basic Calculator 
 
-By Tummanoon Kitcharas-anan 
+By Tummanoon Kitcharas-anan : 6001012630047
 
-Blog : http://myblogmysoftware.blogspot.com/
+king mongkut's university of technology north bangkok (KMUTNB)
+
+for more information >> Blog : http://myblogmysoftware.blogspot.com/

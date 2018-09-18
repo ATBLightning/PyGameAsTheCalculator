@@ -2,7 +2,7 @@
 
 PyGame-based Basic Calculator 
 
-This code use for my learning PyGame Calculator with Python. It maybe has some issues.
+This code use for my learning PyGame-Calculator with Python. It maybe has some issues.
 
 By Tummanoon Kitcharas-anan : 6001012630047
 

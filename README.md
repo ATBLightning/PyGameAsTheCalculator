@@ -1,4 +1,4 @@
-# PyGameAsTheCalculator /n
-PyGame-based Basic Calculator /n
-By Tummanoon Kitcharas-anan /n
+# PyGameAsTheCalculator 
+PyGame-based Basic Calculator 
+By Tummanoon Kitcharas-anan 
 Blog : http://myblogmysoftware.blogspot.com/

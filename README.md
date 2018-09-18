@@ -12,7 +12,7 @@ for more information >> Blog : http://myblogmysoftware.blogspot.com/
 
 ##############################
 
-Thanks to the videos from sendex. It really helpful for my learnning.
+Thanks to the videos from sendex. It really helpful for learnning.
 
 This is his youtube channel : https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
 

@@ -16,4 +16,4 @@ Thanks to the videos from sendex. It really helpful for learning.
 
 This is his youtube channel : https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
 
-and this is his "PyGame with Python 3 Game Development" videoes : https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO
+and this is his "PyGame with Python 3 Game Development" videos : https://www.youtube.com/playlist?list=PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO

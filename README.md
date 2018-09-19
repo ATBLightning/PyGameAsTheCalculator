@@ -12,6 +12,12 @@ for more information >> Blog : http://myblogmysoftware.blogspot.com/
 
 ##############################
 
+Change the buttons shape in BCP. (line 27)
+
+1:rectangle, 2:ellipse, 3:circle
+
+##############################
+
 Thanks to the videos from sendex. It really helpful for learning.
 
 This is his youtube channel : https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ
